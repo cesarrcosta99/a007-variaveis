@@ -25,7 +25,7 @@ console.log(resp1,resp2,resp3)
  let respostaB=prompt(perguntaB)
  let perguntaC="O que esta achando da labenu?"
  let respostaC=prompt(perguntaC)
-console.log(respostaA)
-console.log(respostaB)
-console.log(respostaC)
+console.log(perguntaA,":",respostaA)
+console.log(perguntaB,":",respostaB)
+console.log(perguntaC,":",respostaC)
 
